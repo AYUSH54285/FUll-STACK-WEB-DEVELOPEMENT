@@ -8,7 +8,6 @@ int main()
 //praful
 //>>>>>>> praful
 //beta release betav2.0
-//timepass
 cout<<"hello world";
 return 0;
 }
