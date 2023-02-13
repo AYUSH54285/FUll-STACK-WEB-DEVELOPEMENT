@@ -2,11 +2,12 @@
 using namespace std;
 int main()
 {
-<<<<<<< HEAD
-ayush
-=======
-praful
->>>>>>> praful
+//<<<<<<< HEAD
+//ayush
+//=======
+//praful
+//>>>>>>> praful
+//beta release betav2.0
 cout<<"hello world";
 return 0;
 }
